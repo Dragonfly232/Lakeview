@@ -1,1 +1,51 @@
 
+/*logo in the header*/
+
+#logo  {
+    float:left;
+    font-size: larger;
+    color:white;
+    
+}
+
+
+
+
+/* navigation links */
+
+#menu  {
+    font-size:125%
+    letter:spacing 5px;
+}
+
+
+#menu  {
+    float:right;
+    list-style-type:none;
+    margin: rigth 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    font-family:Arial;
+    
+}
+
+/*hero image*/
+
+#hero-image  {
+    
+}
