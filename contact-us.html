@@ -13,16 +13,27 @@
     <form class="" action="mailto" method="post">
         <ul>
             <li>
-               <label>Your name</label>
+               <label for="name">Your name</label><br>
                <input type="text" id="name" name="your_name">
             </li>
-            <li>
-               <label>Your Email:</label>
-               <input type="email" id="mail" name="your_email">
+            <li><label>Are you an organisation?</label><br>
+                <input type="checkbox" name="" value=""> 
+            </li>
+            <li><label>Are you a private person?</label><br>
+                <input type="checkbox">
+            </li>
+            <li>    
+                <label>Your Email:</label><br>
+                <input type="email" id="mail" name="your_email">
             </li>
             <li>
-               <input type="submit" name="" value="">
-               <label for="msg">Your Message</label>
+                <label>If you have any questions or want to share something with us,
+                       you are most welcome to leave us a message and we will answer,
+                       when possible.
+                </label><br>
+            </li>
+            <li>
+               <label for="msg">Your Message</label><br>
                <textarea id="msg" name="your_message" rows="10" cols="30"></textarea>
         <input type="submit" name="">
         </ul>
