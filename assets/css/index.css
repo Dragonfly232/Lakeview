@@ -1,19 +1,16 @@
- .logo  {
+@import url('https://fonts.googleapis.com/css2?family=lobster&display=swap');
+
+
+
+
+.logo  {
     color:#e22b53;
- }
+ } 
  
- 
- 
- 
- 
- 
- 
- body  {
+body  {
 margin: 0;
 padding: 0;
-font-family: comic sans;
-background-color:rgb(0, 255, 76)
-   }
-
-
-
+border:none;
+font-family: lobster, cursive;
+font-weight: 200;   background-color:blue;
+}
