@@ -3,14 +3,30 @@
 
 
 
-.logo  {
-    color:#e22b53;
- } 
  
 body  {
-margin: 0;
-padding: 0;
-border:none;
-font-family: lobster, cursive;
-font-weight: 200;   background-color:blue;
+    margin: 0;
+    padding: 0;
+    border:none;
+    font-family: lobster, cursive;
+    font-weight: 200;  
+    background-color:burlywood;
+    color: chocolate;
+}
+
+
+
+/* headings and logo*/
+
+
+h1, h2 {
+    font-family: lobster, cursive;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: brown;
+}
+
+
+#logo {
+    float:left
 }
