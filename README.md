@@ -10,3 +10,11 @@ The site will be a welcome opportunity for the orphanage and to present itself o
 #Features
 
 
+I did what I could. I have been figthing to get my index.css to show the style on my site.
+I got assistance on slack, but the problem remains.
+I hope I showed clearly how the page is supposed to look, but I am out of time now.
+
+docs: I have been using MDN doc as a resource, aswell as the "Love running"-project.
+
+
+test ligthhouse
